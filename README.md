@@ -8,6 +8,12 @@ A aplicação simula o funcionamento de um ambiente real, incluindo cadastro de 
 
 ---
 
+### Modelagem lógica
+
+![Modelagem](./assets/modelagem_logica.png)
+ [Modelagem no dbdiagram: https://dbdiagram.io/d/diner-fe-mod-logica-69cc93dc78c6c4bc7ab68d0f](https://dbdiagram.io/d/diner-fe-mod-logica-69cc93dc78c6c4bc7ab68d0f)
+
+
 ## 🎯 Objetivo do Desafio
 
 O principal objetivo foi:

@@ -6,7 +6,6 @@ Este projeto foi desenvolvido como parte de um **desafio técnico backend**, com
 
 A aplicação simula o funcionamento de um ambiente real, incluindo cadastro de produtos, clientes, pedidos e controle de faturamento, utilizando **PostgreSQL** como banco de dados.
 
----
 
 ### Modelagem lógica
 
